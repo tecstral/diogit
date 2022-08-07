@@ -3,4 +3,4 @@
 ### Olá! Este é o livro de receitas do Dani :wave:
 
 - caldo de mandioquinha 
-- pavê de morango
+- pavê de maracujá
