@@ -2,5 +2,5 @@
 
 ### Olá! Este é o livro de receitas do Dani :wave:
 
-- caldo de mandioquinha 
+- caldo de mandioquinha
 - pavê de maracujá
